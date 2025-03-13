@@ -28,7 +28,9 @@ Model Evaluation: GridSearchCV for hyperparameter tuning, ConfusionMatrixDisplay
 Objectives:
 
 	Identify  fraudulent activities in healthcare claims and transactions. This helps reduce financial losses, improve efficiency and ensure ethical medical practices.
+
 	Develop predictive models and evaluate model performance
+
 	Build machine learning models to classify providers as fraudulent or non-fraudulent based on claim patterns. Assess models using metrics like precision, recall, F1-score and ROC_AUC to ensure reliable fraud detection
 
 This project showcases the application of machine learning in a real-world problem, leveraging advanced modeling techniques to enhance fraud detection in the healthcare industry.
